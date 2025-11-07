@@ -63,7 +63,7 @@ video / screenshots
 
 **Developed by [D Kumar](https://github.com/dkumar0501)** — **[IIT Patna]**
 
-
+---
 <p align="center">
   <em>“Enabling intelligent, real time insight into detector operational health.”</em>
 </p>
