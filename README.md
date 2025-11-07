@@ -1,7 +1,7 @@
 <h1 align="left">Detector Operational Health Monitoring System</h1>
 
 <p align="left">
-  <strong>Detector Environment • Python • Machine Learning • Real-Time Monitoring • Operational Health</strong>
+  <strong>Detector Environment • Python • Machine Learning • Real Time Monitoring • Operational Health</strong>
 </p>
 
 <!-- Badges -->
@@ -65,5 +65,5 @@ video / screenshots
 
 
 <p align="center">
-  <em>“Enabling intelligent, real-time insight into detector operational health.”</em>
+  <em>“Enabling intelligent, real time insight into detector operational health.”</em>
 </p>
