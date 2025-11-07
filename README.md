@@ -38,8 +38,8 @@ This project is a **Python based real time monitoring and analysis system** desi
 | **Programming Language** | Python (NumPy, Pandas, Scikit-learn, Streamlit) |
 | **Simulation Engine** | Generates synthetic telemetry for temperature, radiation, vibration, magnetic field, and power health |
 | **Modeling** | Random Forest regression to predict detector stability and health |
-| **Visualization** | Real-time trend charts, bar plots, and stability indicators |
-| **Output** | Stability Index (0–1), health status alerts, and live plots |
+| **Visualization** | Real time trend charts, bar plots, and stability indicators |
+| **Output** | Stability Index [0–1], health status alerts, and live plots |
 
 
 
