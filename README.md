@@ -45,9 +45,7 @@ This project is a **Python based real time monitoring and analysis system** desi
 
 ## 📷 Project Live Working
 
-video / screenshots
-
-
+https://github.com/user-attachments/assets/9c92a180-4b80-4d61-a83b-b99b181a6217
 
 ## 🧩 Future Enhancements
 
