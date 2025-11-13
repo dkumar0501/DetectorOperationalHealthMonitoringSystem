@@ -5,7 +5,7 @@
 </p>
  
 <!-- Badges -->
-<p align="left">
+<p align="left"> 
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python"> 
   <img src="https://img.shields.io/badge/Machine%20Learning-Enabled-orange?logo=scikit-learn&logoColor=white" alt="Machine Learning">
   <img src="https://img.shields.io/badge/Streamlit-Interactive%20Dashboard-success?logo=streamlit&logoColor=white" alt="Streamlit">
