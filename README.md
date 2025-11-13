@@ -6,7 +6,7 @@
  
 <!-- Badges -->
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python"> 
   <img src="https://img.shields.io/badge/Machine%20Learning-Enabled-orange?logo=scikit-learn&logoColor=white" alt="Machine Learning">
   <img src="https://img.shields.io/badge/Streamlit-Interactive%20Dashboard-success?logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/Real%20Time-Environment%20Telemetry-9cf?logo=anaconda&logoColor=white" alt="Real Time">
