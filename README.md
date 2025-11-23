@@ -1,4 +1,4 @@
-<h1 align="left">Detector Operational Health Monitoring System</h1>
+<h1 align="left">Detector Operational Health Monitoring System</h1> 
   
 <p align="left">    
   <strong>Detector Environment • Python • Machine Learning • Real Time Monitoring • Operational Health</strong> 
