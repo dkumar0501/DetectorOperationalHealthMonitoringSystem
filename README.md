@@ -2,7 +2,7 @@
   
 <p align="left">    
   <strong>Detector Environment • Python • Machine Learning • Real Time Monitoring • Operational Health</strong> 
-</p>          
+</p>           
        
 <!-- Badges -->             
 <p align="left">        
